@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ToDo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="android:textColor">@color/tomato</item>
+        <item name="android:textColorSecondary">@color/desire</item>//maly tekst
+        <item name="android:textColorTertiary">@color/desire</item> //cos
+        <item name="colorPrimary">@color/statusBarDark</item>//klawisze i duze view
+        <item name="colorPrimaryVariant">@color/barDark</item>
+        <item name="colorOnPrimary">@color/textBarDark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/buttonDark</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/textDark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.ToDoBack" parent="@android:style/TextAppearance">
+
+    </style>
+</resources>

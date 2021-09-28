@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="add_some_details_to_your_activity">Add some details to your activity</string>
+    <string name="choose_priority">Choose priority</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="choose_the_date">Choose the date</string>
+    <string name="add">Add</string>
+    <string name="swipeToScreen">+</string>
+    <string name="priority">Priority</string>
+    <string name="date_asc">Date ↑</string>
+    <string name="date_desc">Date ↓</string>
+    <string name="photo_asc">Photo ↑</string>
+    <string name="photo_desc">Photo ↓</string>
+    <string name="refresh">refresh</string>
+    <string name="choose_time">Choose time</string>
+    <string name="delete">Delete</string>
+    <string name="b_photo">B photo</string>
+    <string name="c_photo">C photo</string>
+    <string name="a_photo">A photo</string>
+</resources>

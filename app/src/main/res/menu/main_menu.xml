@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/priority_item"
+        android:title="@string/priority" />
+    <item android:id="@+id/date_item_asc"
+        android:title="@string/date_asc" />
+    <item android:id="@+id/date_item_desc"
+        android:title="@string/date_desc" />
+    <item android:id="@+id/photo_item_asc"
+        android:title="@string/photo_asc" />
+    <item android:id="@+id/photo_item_desc"
+        android:title="@string/photo_desc" />
+
+    <item
+        android:id="@+id/refresh_button"
+        android:icon="@drawable/refresh_icon"
+        android:title="@string/refresh"
+        app:showAsAction="always" />
+</menu>
